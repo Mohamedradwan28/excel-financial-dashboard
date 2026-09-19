@@ -15,11 +15,11 @@ portfolio/learning purposes.
 
 **Dashboard** — dropdown filters, live KPIs, and a filtered revenue chart:
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 **Data sheet** — Excel Table with conditional formatting:
 
-![Data sheet](screenshots/data_sheet.png)
+![Data sheet](data_sheet.png)
 
 ---
 
